@@ -1,0 +1,4 @@
+<!NOTATION GIF SYSTEM "gifview.exe">
+<!NOTATION JPG SYSTEM "jpgview.exe">
+<!-- specifica l’associazione del formato immagini GIF, JPG con i programmi corrispondenti.-->
+<!ATTLIST Immagine tipo NOTATION (GIF|JPG) "GIF">

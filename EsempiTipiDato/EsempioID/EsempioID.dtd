@@ -1,0 +1,3 @@
+<!ATTLIST libro
+		collocazione ID #REQUIRED
+	>

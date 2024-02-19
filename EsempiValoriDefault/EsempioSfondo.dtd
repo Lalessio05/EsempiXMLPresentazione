@@ -1,0 +1,4 @@
+<!ATTLIST Sfondo
+	colore CDATA "bianco" #FIXED
+	immagine CDATA "tramonto.gif"
+>

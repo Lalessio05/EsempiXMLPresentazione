@@ -1,0 +1,12 @@
+<!--Esternamente-->>
+<!DOCTYPE persona SYSTEM "EsempioDTD.dtd">
+
+<!--Internamente-->
+<!DOCTYPE persona 
+	[
+	<!ELEMENT cognome (#PCDATA)>
+	<!ELEMENT nome (#PCDATA)>
+	<!ELEMENT persona (nome, cognome)>
+	<!ATTLIST persona sesso CDATA #REQUIRED>
+	] 
+>

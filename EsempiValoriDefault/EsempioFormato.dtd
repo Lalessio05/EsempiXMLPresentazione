@@ -1,0 +1,4 @@
+<!ATTLIST nome_elemento
+	nome_attributo1 tipo_attributo1 default1
+	nome_attributo2 tipo_attributo2 default2
+>

@@ -1,0 +1,8 @@
+<!ELEMENT persona(nome+)>
+<!--Indica che il sotto-elemento deve comparire ALMENO una volta-->
+<!ELEMENT persona(nomiAnimaliDomestici*)>
+<!--Indica che il sotto-elemento può comparire da 0 fino a infinite volte-->
+<!ELEMENT persona(numeroCellulare?)>
+<!--Indica che il sotto-elemento è opzionale, può non essere inserito-->
+<!ELEMENT equipaggio (pilota+, (hostess | steward)*)>
+<!--Indica che c'è bisogno di almeno un pilota, e ci può essere un numero da 0 a infinito di hostess e/o steward-->

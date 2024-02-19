@@ -1,0 +1,4 @@
+<!ELEMENT persona (nome, cognome)> 
+<!-- Deve contenere sia nome che cognome in questo ordine-->
+<!ELEMENT ditta (codice_fiscale | partita_iva)>
+<!-- Deve contenere almeno uno dei due sotto-elemento-->

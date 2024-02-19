@@ -1,0 +1,1 @@
+<!ELEMENT testo (#PCDATA | i | b)*>

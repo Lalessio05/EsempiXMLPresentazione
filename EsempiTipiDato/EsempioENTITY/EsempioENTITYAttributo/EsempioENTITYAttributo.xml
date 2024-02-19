@@ -1,0 +1,2 @@
+<!ENTITY figura1 SYSTEM "http://www.cnr.it/imgs/book1.gif" NDATA GIF>
+<Libro copertina="figura1"> ... </Libro>

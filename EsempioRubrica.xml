@@ -1,0 +1,17 @@
+<rubrica>
+	<utente>
+		<nome>Mario</nome>
+		<cognome>Rossi</cognome>
+		<telefono>031221222</telefono>
+	</utente>
+	<utente>
+		<nome>Francesco</nome>
+		<cognome>Neri</cognome>
+		<telefono>123876453</telefono>
+	</utente>
+	<utente>
+		<nome>Michele</nome>
+		<cognome>Bianchi</cognome>
+		<telefono>022121222</telefono>
+	</utente>
+</rubrica>

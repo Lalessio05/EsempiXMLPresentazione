@@ -1,0 +1,1 @@
+<!ATTLIST Libro copertina ENTITY #REQUIRED>

@@ -1,0 +1,9 @@
+<!ELEMENT cognome (#PCDATA)>
+<!-- L'attributo cognome contiene testo-->
+<!ELEMENT nome (#PCDATA)>
+<!-- L'attributo nome contiene testo-->
+<!ELEMENT persona (nome, cognome)>
+<!-- Persona è un elemento contente gli elementi nome e cognome-->
+<!ATTLIST persona 
+	sesso CDATA #REQUIRED>
+<!-- sesso è un attributo obbligatorio di tipo testo dell'elemento persona-->
